@@ -18,7 +18,7 @@
     </li>
 	</modDependencies>
 	<description>
-	A patch to enable modded medicine options in the pawn health tab.
+	A patch to enable modded medicine options in the pawn health tab, and in the pharmacist menu (if using this mod).
 	
 	Compatible with:
 	Pharmacist
